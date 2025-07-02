@@ -1,7 +1,6 @@
-# cs-hacking-learning-log
-Absolutely! Here’s a **sample reflection summary** you can add to your **GitHub learning log** (like in `README.md` or a separate file named `week1_reflection.md`), along with your **planned next steps**.
+⚠️ This repository is for educational and ethical hacking practice only.
+All tools are built on local or permitted environments and do not target any external systems.
 
----
 
 # Step 1 Reflection: Git & Python Foundations
 
